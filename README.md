@@ -143,7 +143,7 @@ Want to make it yours? Try these:
 
 ## Blog Post
 
-Read the full technical breakdown: [Customizing PencilKit: Going Past Apple's Tool Picker](https://yourblog.com/pencilkit-custom)
+Read the full technical breakdown: [Customizing PencilKit: Going Past Apple's Tool Picker]([https://yourblog.com/pencilkit-custom](https://medium.com/@wesleymatlock/customizing-pencilkit-going-past-apples-tool-picker-b82eca7bfbe2))
 
 ## Contributing
 
